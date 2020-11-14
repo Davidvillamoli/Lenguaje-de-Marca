@@ -1,0 +1,37 @@
+body {
+  width: 1350px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+#datos, #principal {
+  float: left;
+  padding:0;
+  margin: auto;
+}
+
+#datos {
+ width: 260px;
+}
+
+#principal {
+  width: 1000px;
+}
+
+#contenido {
+  list-style-type: none;
+  padding: 0;
+}
+
+#contenido li {
+  float: left;
+  width: 33%;
+}
+
+img{
+  float:left;
+  margin: 0 10px 10px 0;
+}
