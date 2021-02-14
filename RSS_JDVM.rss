@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Edited by XMLSpy® -->
+<rss version="2.0">
+<channel>
+  <title>Mi vehiculo</title>
+  <language>es-es</language>
+  <link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+  <description> 
+  	Ayuda a los usuarios ha mantemerse informado sobre las piezas de su coche.
+  </description>
+  	<skipDays>
+	    <day>Saturday</day>
+	    <day>Sunday</day>
+  </skipDays>
+  <skipHours>
+	    <hour>0</hour>
+	    <hour>1</hour>
+	    <hour>2</hour>
+	    <hour>3</hour>
+	    <hour>4</hour>
+	    <hour>5</hour>
+  </skipHours>
+  <category>Piezas Internas - Coche</category>
+  	<copyright> David Villarroel - Todos los derechos reservados </copyright>
+  <item>
+    <title>Bateria</title>
+    <link>https://www.amazon.es/bater%C3%ADas-coche/b?ie=UTF8&node=2424974031</link>
+    <description>las mejores batrias del mercado</description>
+    <author>a20vimoje@iesgrancapitan.org</author>
+    <image>
+    	<url>https://www.google.com/search?q=bateria+coche+imagen&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjL-avUm-nuAhUyxYUKHf1_AYsQ_AUoAXoECAUQAw&biw=1675&bih=818</url>
+    	<title>Tipos de Bateria</title>
+    	<link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+    </image>
+  </item>
+   <item>
+    <title>Motor</title>
+    <link>https://www.motor.es/</link>
+    <description>Encuentra tu motor ideal</description>
+    <author>a20vimoje@iesgrancapitan.org</author>
+  </item>
+</channel>
+</rss>
