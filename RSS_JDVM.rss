@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!-- Edited by XMLSpy® -->
+<rss version="2.0">
+<channel>
+  <title>Mi vehiculo</title>
+  <language>es-es</language>
+  <link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+  <description> 
+  	Ayuda a los usuarios ha mantemerse informado sobre las piezas de su coche.
+  </description>
+  	<skipDays>
+	    <day>Saturday</day>
+	    <day>Sunday</day>
+  </skipDays>
+  <skipHours>
+	    <hour>0</hour>
+	    <hour>1</hour>
+	    <hour>2</hour>
+	    <hour>3</hour>
+	    <hour>4</hour>
+	    <hour>5</hour>
+  </skipHours>
+  <category>Piezas Internas - Coche</category>
+  	<copyright> David Villarroel - Todos los derechos reservados </copyright>
+  <item>
+    <title>Bateria</title>
+    <link>https://www.amazon.es/bater%C3%ADas-coche/b?ie=UTF8&node=2424974031</link>
+    <description>las mejores batrias del mercado</description>
+    <author>a20vimoje@iesgrancapitan.org</author>
+    <image>
+    	<url>https://www.google.com/search?q=bateria+coche+imagen&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjL-avUm-nuAhUyxYUKHf1_AYsQ_AUoAXoECAUQAw&biw=1675&bih=818</url>
+    	<title>Tipos de Bateria</title>
+    	<link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+    </image>
+  </item>
+   <item>
+    <title>Motor</title>
+    <link>https://www.motor.es/</link>
+    <description>Encuentra tu motor ideal</description>
+    <author>a20vimoje@iesgrancapitan.org</author>
+    <enclosure url="https://www.youtube.com/watch?v=2_5oG7Qpp1M" length="12345" type="audio/mpeg"/>
+</item>
+<category>Piezas Externas</category>
+  	<copyright> David Villarroel - Todos los derechos reservados </copyright>
+  <item>
+    <title>Cristales</title>
+    <link>https://www.carglass.es/</link>
+    <description>Reparacion y sustitucion de</description>
+    <author>a20vimoje@iesgrancapitan.org</author>
+    <image>
+    	<url>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tallereslunaalcantara.com%2Flunas%2F&psig=AOvVaw311XeohrnWmvUKdRN4Hopd&ust=1613388544556000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiXuu2i6e4CFQAAAAAdAAAAABAD</url>
+    	<title>Procesao de Repacion</title>
+    	<link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+    </image>
+  </item>
+   <item>
+    <title>Modelos de chasis</title>
+    <link>https://es.motor1.com/features/414389/10-modelos-chasis-arcaicos-rapidos-deportivos/</link>
+    <description>Modelos con chasis arcaicos, más rápidos que algunos deportivos</description>
+    <author>a20vimoje@iesgrancapitan.org</author>
+    <enclosure url="https://es.motor1.com/reviews/" length="12345" type="video/mpeg"/>
+</item>
+</channel>
+</rss>
