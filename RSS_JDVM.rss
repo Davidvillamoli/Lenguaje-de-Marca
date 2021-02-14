@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+<title>Mi vehiculo</title>
+<language>es-Es</language>
+<copyright><![CDATA[DAVID-DERECHOS RESERVADOS]]></copyright>
+<link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+<description> 
+	Ayuda a los usuarios ha mantemerse informado sobre las piezas de su coche.
+</description>
+<category>Informacion sobre tu coch</category>
+<lastBuildDate>Sun, 14 Feb 2021 09:23:14 +0100</lastBuildDate>
+	<skipDays>
+    <day>Saturday</day>
+    <day>Sunday</day>
+</skipDays>
+<skipHours>
+    <hour>0</hour>
+    <hour>1</hour>
+    <hour>2</hour>
+    <hour>3</hour>
+    <hour>4</hour>
+    <hour>5</hour>
+</skipHours>
+
+	<image>
+		<title>Motores</title>
+		<url>https://motor.elpais.com/wp-content/uploads/2017/02/Instagram-980x540.jpg</url>
+		<description>Multiples diseños</description>
+		<link>https://davidvillamoli.github.io/Lenguaje-de-Marca/</link>
+	</image>
+
+	<item>
+		<title>Bateria</title>
+		<link>https://www.norauto.es/c/48699-baterias-autom%C3%B3vil.html</link>
+		<description>las mejores batrias del mercado</description>
+		<guid isPermaLink="true">https://www.norauto.es/c/48699-baterias-autom%C3%B3vil.html</guid>
+		<pubDate>Sun, 14 Feb 2021 02:08:08 GMT </pubDate>
+		<author>a20vimoje@iesgrancapitan.or(Davidvillarroel)</author>
+		<enclosure url="https://www.carrefour.es/e-commerce/contenidos/automovil/guia-baterias-4.jpg" length="12345" type="image/mpeg"/>
+
+	</item>
+
+	<item>
+		<title>Motor</title>
+		<link>https://www.motor.es/</link>
+		<description>Encuentra tu motor ideal</description>
+		<guid isPermaLink="true">https://www.motor.es/</guid>
+		<pubDate>Sun, 14 Feb 2021 02:08:08 GMT </pubDate>
+		<author>a20vimoje@iesgrancapitan.org (david villarroel)</author>
+		<enclosure url="https://www.youtube.com/watch?v=2_5oG7Qpp1M" length="12345" type="video/mpeg"/>
+	</item>
+
+	<item>
+		<title>Cristales</title>
+		<link>https://www.carglass.es/</link>
+		<description>Reparacion y sustitucion de</description>
+		<guid isPermaLink="true">https://www.carglass.es/</guid>
+		<pubDate>Sun, 14 Feb 2021 02:08:08 GMT</pubDate>
+		<author>a20vimoje@iesgrancapitan.org (david villarroel)</author>
+		<enclosure url="https://youtu.be/r_H26jkKb6o" length="12345" type="audio/mpeg"/>
+	</item>
+	<item>
+	    <title>Modelos de chasis</title>
+	    <link>https://es.motor1.com/features/414389/10-modelos-chasis-arcaicos-rapidos-deportivos/</link>
+	    <description>Modelos con chasis arcaicos, más rápidos que algunos deportivos</description>
+	    <guid isPermaLink="true">https://es.motor1.com/features/414389/10-modelos-chasis-arcaicos-rapidos-deportivos/</guid>
+	    <pubDate>Sun, 14 Feb 2021 02:08:08 GMT </pubDate>
+	    <author>a20vimoje@iesgrancapitan.org (david villarroel)</author>
+	    <enclosure url="https://www.tuteorica.com/material-complementario/seguridad-pasiva/chasis-y-carroceria.com" length="12345" type="text/mpeg"/>
+	</item>
+</channel>
+</rss>
